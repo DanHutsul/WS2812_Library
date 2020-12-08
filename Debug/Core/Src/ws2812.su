@@ -1,0 +1,2 @@
+ws2812.c:7:6:ws2812_pixel_rgb_to_buf_dma	24	static
+ws2812.c:37:6:ws2812_light	8	static
